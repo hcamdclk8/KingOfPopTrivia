@@ -20,285 +20,207 @@
  */
 var questions = [
 	{
-        "What city was Madonna born in?": [
-            "Bay City, Michigan",
+        "What city was Michael Jackson born in?": [
+            "Gary, Indiana",
             "Detroit, Michigan",
             "Chicago, Illinois",
             "Grand Rapids, Michigan"
         ]
     },
     {
-        "What was Madonna's full name?": [
-            "Madonna Louise Veronica Ciccone",
-            "Madonna Veronica Ciccone",
-            "Madonna Alexandra Ciccone",
-            "Madonna Victoria Ciccone"
+        "What was Michael Jackson's full name?": [
+            "Michael Joseph Jackson",
+            "Michael John Jackson",
+            "Michael Jeremy Jackson",
+            "Michael Patrick Jackson"
         ]
     },
     {
-        "What is Madonna's first number one song in the U.S.?": [
-            "Like A Virgin",
-            "Like A Prayer",
-            "Lucky Star",
-            "Holiday"
+        "What is Michael Jackson's first solo number one song in the U.S.?": [
+            "Ben",
+            "Got To Be There",
+            "Rockin' Robin",
+            "Rock With You"
         ]
     },
     {
-        "What is Madonna's longest running number one hit in the US?": [
-            "Take A Baow",
-            "Vogue",
-            "Like A Virgin",
-            "Music"
+        "What is Michael Jackson's first US number one hit with the Jackson Five?": [
+            "I Want You Back",
+            "ABC",
+            "I'll Be There",
+            "Got To Be There"
         ]
     },
     {
-        "What is the name of Madonna's first husband?": [
-            "Sean Penn",
-            "Warren Beatty",
-            "Guy Ritchie",
-            "Jellybean Benitez"
+        "What is the name of Michael Jackson's last US Top ten hit?": [
+            "You Rock My World",
+            "You are not alone",
+            "In The Closet",
+            "Will You Be There"
         ]
     },
     {
-        "What song was Madonna's first Top 20 US hit?": [
-            "Holiday",
-            "Burning Up",
-            "Lucky Star",
-            "Everybody"
+        "What song was Michael Jackson's last solo number one US hit?": [
+            "You Are Not Alone",
+            "Bad",
+            "Black or White",
+            "Dirty Diana"
         ]
     },
     {
-        "What song was Madonna's first single release in the US?": [
-            "Everybody",
-            "Physical Attraction",
-            "Holiday",
-            "Burning Up"
+        "What song was Michael Jackson's first solo single release in the US?": [
+            "Got To Be There",
+            "Ben",
+            "Rock With You",
+            "Don't Stop Till You Get Enough"
         ]
     },
     {
-        "What is the name of Madonna's frequent collaborator who was also the drummer of The Breakfast Club?": [
-            "Stephen Bray",
-            "Dan Gilroy",
-            "Jellybean Benitez",
+        "What is the name of the producer who co-produced Michael Jackson's Thiller album?": [
+            "Quincy Jones",
+            "Rod Templeton",
+            "Maurice Starr",
             "Mark Kamins"
         ]
     },
     {
-        "What is the first major film Madonna appeared in playing a nightclub singer?": [
-            "Vision Quest",
-            "Desperately Seeking Susan",
-            "Footloose",
-            "Fame"
+        "What is the first film Michael Jackson appeared in?": [
+            "The Wiz",
+            "Moonwalker",
+            "Bad twenty five",
+            "Michael Jackson's This Is It"
         ]
     },
     {
-        "What is the name of Madonna's first tour?": [
-            "The Virgin Tour",
-            "Holiday Tour",
-            "Who's That Girl Tour",
-            "Blond Ambition"
+        "What is the name of Michael Jackson's first tour?": [
+            "Bad",
+            "Victory Tour",
+            "Dangerous World Tour",
+            "Off The Wall Tour"
         ]
     },
     {
-        "Which Madonna tour was featured in the film Truth or Dare?": [
-            "Blond Ambition",
-            "The Girlie Show",
-            "Who's That Girl",
-            "The Virgin Tour"
+        "Which Michael Jackson video featured Eddie Murphy and Magic Johnson?": [
+            "Remember The Time",
+            "Moonwalker",
+            "Man In The Mirror",
+            "Black and White"
         ]
     },
     {
-        "Which Madonna video was inspired by the film Metropolis?": [
-            "Express Yourself",
-            "Vogue",
-            "Borderline",
-            "Cherish"
+        "Which Michael Jackson video was directed by John Landis?": [
+            "Thriller",
+            "Billie Jean",
+            "Beat It",
+            "Say Say Say"
         ]
     },
     {
-        "Which Madonna video showed her dancing in front of three burning crosses?": [
-            "Like A Prayer",
-            "Express Yourself",
-            "Erotica",
-            "Causing a Commotion"
+        "Which Michael Jackson video showed him with supermodel Naomi Campbell?": [
+            "In The Closet",
+            "Dirty Diana",
+            "The Way You Make Me Feel",
+            "Scream"
         ]
     },
     {
-        "Which movie did Madonna appear in where she played for an all girl baseball team?": [
-            "A League Of Their Own",
-            "Body of Evidence",
-            "Desperately Seeking Susan",
-            "Evita"
+        "Which video did Michael Jackson appear in with Lisa Marie Presley?": [
+            "You are not Alone",
+            "Black and White",
+            "I Can't Stop Loving You",
+            "Will You Be There"
         ]
     },
     {
-        "What is the name of Madonna's first children's book?": [
-            "The English Roses",
-            "The Little Prince",
-            "The English Girl",
-            "The Little Lucky Star"
+        "What is the name of Michael Jackson's first wife?": [
+            "Lisa Marie Presley",
+            "Debbie Rowe",
+            "Brooke Shields",
+            "Katherine Jackson"
         ]
     },
     {
-        "What is the name of the X rated coffee table book that Madonna made?": [
-            "Sex",
-            "Erotica",
-            "Truth or Dare",
-            "The Virgin Diaries"
+        "What is the name of Michael Jackson's father?": [
+            "Joseph Jackson",
+            "Freddie Jackson",
+            "Larry Jackson",
+            "James Jackson"
         ]
     },
     {
-        "What is the name of the character that Madonna played in the movie Dick Tracy?": [
-            "Breathless Mahoney",
-            "Jodie Smith",
-            "Jessica Rabbit",
-            "Blondie"
+        "What is the name of Michael Jackson's mother?": [
+            "Katherin Jackson",
+            "Mary Jackson",
+            "Jackie Jackson",
+            "Victoria Jackson"
         ]
     },
     {
-        "Which song did Madonna sing in her first performance at the Oscars?": [
-            "Sooner or Later",
-            "You Must Love Me",
-            "Don't Cry For Me Argentina",
-            "Frozen"
+        "Which signature dance move did Michael Jackson popularized?": [
+            "Moonwalk",
+            "Street Dance",
+            "Moon Dance",
+            "Defy The Gravity Dance"
         ]
     },
     {
-        "Which tv show did Madonna declare that she wanted to rule the world?": [
-            "American Bandstand",
+        "Which tv show did Michael Jackson first introduce the moonwalk?": [
+            "Motown Twenty Five: Yesterday, Today, Forever",
             "Soul Train",
             "The Dance Show",
             "Solid Gold"
         ]
     },
     {
-        "Which movie did Madonna star in opposite Rosanna Arquette?": [
-            "Desperately Seeking Susan",
-            "Vision Quest",
-            "A League Of Their Own",
-            "Body Of Evidence"
+        "Which movie did Michael Jackson star in opposite Diana Ross?": [
+            "The Whiz",
+            "Mahogany",
+            "Lady Sings The Blues",
+            "Moonwalker"
         ]
     },
     {
-        "Which song became Madonna's first ballad to hit number one in the US?": [
-            "Crazy For You",
-            "Live To Tell",
-            "This Used To Be My Playground",
-            "Take A Baow"
+        "Which sister of Michael Jackson posed nude for Playboy magazine?": [
+            "Latoya Jackson",
+            "Janet Jackson",
+            "Debbie Jackson",
+            "Rebbie Jackson"
         ]
     },
     {
-        "What album gave Madonna her first musical Grammy win for Best Pop Album?": [
-            "Ray Of Light",
-            "Evita",
-            "Music",
-            "Confessions on the Dance floor"
+        "What album gave Michael Jackson seven Grammy awards?": [
+            "Thriller",
+            "Bad",
+            "Off The Wall",
+            "Invincible"
         ]
     },
     {
-        "What album did Madonna dedicate to Sean Penn?": [
-            "True Blue",
-            "Like A Prayer",
-            "Like A Virgin",
-            "Madonna"
+        "What is the first name of Michael Jackson's daughter?": [
+            "Paris",
+            "Geneva",
+            "Rose",
+            "Janet"
         ]
     },
     {
-        "Which movie did Guy Ritchie direct Madonna in?": [
-            "Swept Away",
-            "Lock, Stock and Barrel",
-            "Evita",
-            "Body of Evidence"
+        "What song did Michael Jackson perform in the children story book E.T. Extra Terrestrial?": [
+            "Someone In The Dark",
+            "Somebody's Watching Me",
+            "Phone Home",
+            "Got To Be There"
         ]
     },
+
     {
-        "What is the name of the movie that Madonna appeared in along side Sean Penn?": [
-            "Shanghai Surprise",
-            "True Blue",
-            "Who's That Girl",
-            "Vision Quest"
-        ]
-    },
-    {
-        "In what year was the album Ray of Light released?": [
-            "Nineteen Ninety Seven",
-            "Nineteen Ninety Five",
-            "Nineteen Ninety Eight",
-            "Nineteen Eighty Nine"
-        ]
-    },
-    {
-        "In what movie was the song I'll Remember featured in?": [
-            "With Honors",
-            "A League Of Their Own",
-            "Evita",
-            "Vision Quest"
-        ]
-    },
-    {
-        "Which movie did Madonna appear in with Rupert Everrett?": [
-            "The Next Best Thing",
-            "My Best Friend's Wedding",
-            "Dangerous Game",
-            "Evita"
-        ]
-    },
-    {
-        "Which actor played along side Madonna in the movie Body Of Evidence?": [
-            "William Dafoe",
-            "Antonio Bandaras",
-            "Warren Beatty",
-            "Griffin Dunne"
-        ]
-    },
-    {
-        "What is the name of Madonna's first greatest hits album?": [
-            "Immaculate Collection",
-            "Something To Remember",
-            "GHV two",
-            "Madonna Greatest Hits Collection"
-        ]
-    },
-    {
-        "What is the name of the James Bond film where Madonna had a cameo?": [
-            "Die Another Day",
-            "Living Daylights",
-            "Spectre",
-            "You Only Live Once"
-        ]
-    },
-    {
-        "What is the name of Madonna's mother?": [
-            "Madonna",
-            "Veronica",
-            "Louise",
-            "Mary"
-        ]
-    },
-    {
-        "Which director directed the videos Express Yourself and Vogue?": [
-            "David Fincher",
-            "Mary Lambert",
-            "Michael Haussman",
-            "Jonas Akerlund"
-        ]
-    },
-    {
-        "What is the Broadway show that Madonna starred in?": [
-            "Speed The Plow",
-            "Bloodhounds of Broadway",
-            "Evita",
-            "Mameth"
-        ]
-    },
-    {
-        "Which Christmas song was recorded by Madonna?": [
-            "Santa Baby",
-            "Rock Around The Christmas Tree",
-            "Have Yourself A Merry Christmas",
-            "Little Drummer Boy"
+        "In what year was the album Thriller released?": [
+            "Nineteen Eighty Two",
+            "Nineteen Eighty Five",
+            "Nineteen Eighty Four",
+            "Nineteen Eighty Three"
         ]
     }
+    
 ];
 
 // Route the incoming request based on type (LaunchRequest, IntentRequest,
@@ -312,7 +234,7 @@ exports.handler = function (event, context) {
          * prevent someone else from configuring a skill that sends requests to this function.
          */
 		 
-     if (event.session.application.applicationId !== "amzn1.echo-sdk-ams.app.7a177e9d-4dd2-4697-9cba-6fb820354a3c") {
+     if (event.session.application.applicationId !== "amzn1.echo-sdk-ams.app.172102eb-8a64-4961-b736-31d9cb691bce") {
          context.fail("Invalid Application ID");
       }
 
@@ -409,8 +331,8 @@ var ANSWER_COUNT = 4,
 
 function getWelcomeResponse(callback) {
     var sessionAttributes = {},
-        cardTitle = "Madonna Trivia",
-        speechOutput = "Madonna Trivia. I will ask you " + GAME_LENGTH.toString() 
+        cardTitle = "Michael Jackson Trivia",
+        speechOutput = "Michael Jackson Trivia. I will ask you " + GAME_LENGTH.toString() 
             + " questions, try to get as many right as you can. Just say the number of the answer. Let's begin.",
         shouldEndSession = false,
 
@@ -472,7 +394,7 @@ function populateRoundAnswers(gameQuestions, index, correctAnswer) {
 }
 
 function handleAnswerRequest(intent, session, callback) {
-    var cardTitle = "Madonna Trivia",
+    var cardTitle = "Michael Jackson Trivia",
         speechOutput = "";
 
     var answerSlot = intent.slots.Answer;
