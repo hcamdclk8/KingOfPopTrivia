@@ -20,207 +20,250 @@
  */
 var questions = [
 	{
-        "What city was Michael Jackson born in?": [
-            "Gary, Indiana",
-            "Detroit, Michigan",
-            "Chicago, Illinois",
-            "Grand Rapids, Michigan"
+        "What Madonna ballad contains the lines, I never wanted anyone like this - It's all brand new - You'll feel it in my kiss?": [
+            "Crazy For You",
+            "You'll See",
+            "Love Don't Live Here Anymore",
+            "Take A Baow"
         ]
     },
     {
-        "What was Michael Jackson's full name?": [
-            "Michael Joseph Jackson",
-            "Michael John Jackson",
-            "Michael Jeremy Jackson",
-            "Michael Patrick Jackson"
+        "What Mariah Carey ballad contains the lyric, When you left me I lost a part of me?": [
+            "We Belong Together",
+            "Don't Forget About Us",
+            "Can't Let Go",
+            "I Still Believe"
         ]
     },
     {
-        "What is Michael Jackson's first solo number one song in the U.S.?": [
-            "Ben",
-            "Got To Be There",
-            "Rockin' Robin",
-            "Rock With You"
+        "What Taylor Swift hit contains the lines, You're my nightmare dressed like a daydream": [
+            "Blank Space",
+            "Love Story",
+            "Shake It Off",
+            "Bad Blood"
         ]
     },
     {
-        "What is Michael Jackson's first US number one hit with the Jackson Five?": [
-            "I Want You Back",
-            "ABC",
-            "I'll Be There",
-            "Got To Be There"
+        "What One Direction song contains the lyric, I might never be your knight in shining armor, I might never be the one you take home to mother.": [
+            "Perfect",
+            "What Makes You Beautiful",
+            "Drag Me Down",
+            "Story Of My Life"
         ]
     },
     {
-        "What is the name of Michael Jackson's last US Top ten hit?": [
-            "You Rock My World",
-            "You are not alone",
-            "In The Closet",
-            "Will You Be There"
+        "What Maroon Five song contains the lines, I'm hurting baby, I'm broken down. I need your loving, I need it now": [
+            "Sugar",
+            "She will be loved",
+            "Maps",
+            "Moves like Jagger"
         ]
     },
     {
-        "What song was Michael Jackson's last solo number one US hit?": [
-            "You Are Not Alone",
-            "Bad",
-            "Black or White",
-            "Dirty Diana"
+        "What Bruno Mars song contains the lines, I would go through all this pain, Take a bullet straight through my brain?": [
+            "Grenade",
+            "Just The Way You Are",
+            "When I Was your Man",
+            "Locked Out of Heaven"
         ]
     },
     {
-        "What song was Michael Jackson's first solo single release in the US?": [
-            "Got To Be There",
-            "Ben",
-            "Rock With You",
-            "Don't Stop Till You Get Enough"
+        "What Rhianna song contains the lines, Its the way I'm feeling, I just can't deny. But I've gottta let it go.?": [
+            "We Found Love",
+            "Stay",
+            "Diamonds",
+            "Love The Way You Lie"
         ]
     },
     {
-        "What is the name of the producer who co-produced Michael Jackson's Thiller album?": [
-            "Quincy Jones",
-            "Rod Templeton",
-            "Maurice Starr",
-            "Mark Kamins"
+        "What Selena Gomez ballad contains the lyric, Take away your things and go, You can't take back what you said, I know": [
+            "Same Old Love",
+            "Good For You",
+            "I Want you to know",
+            "Love you like a love song"
         ]
     },
     {
-        "What is the first film Michael Jackson appeared in?": [
-            "The Wiz",
-            "Moonwalker",
-            "Bad twenty five",
-            "Michael Jackson's This Is It"
-        ]
-    },
-    {
-        "What is the name of Michael Jackson's first tour?": [
-            "Bad",
-            "Victory Tour",
-            "Dangerous World Tour",
-            "Off The Wall Tour"
-        ]
-    },
-    {
-        "Which Michael Jackson video featured Eddie Murphy and Magic Johnson?": [
-            "Remember The Time",
-            "Moonwalker",
-            "Man In The Mirror",
-            "Black and White"
-        ]
-    },
-    {
-        "Which Michael Jackson video was directed by John Landis?": [
-            "Thriller",
+        "What Michael Jackson tune contains the lines, People always told me, be careful what you do.": [
             "Billie Jean",
             "Beat It",
-            "Say Say Say"
-        ]
-    },
-    {
-        "Which Michael Jackson video showed him with supermodel Naomi Campbell?": [
-            "In The Closet",
-            "Dirty Diana",
             "The Way You Make Me Feel",
-            "Scream"
+            "I'll Can't Stop Loving You"
         ]
     },
     {
-        "Which video did Michael Jackson appear in with Lisa Marie Presley?": [
-            "You are not Alone",
-            "Black and White",
-            "I Can't Stop Loving You",
-            "Will You Be There"
+        "What Justin Beeber tune contains the lines, When you nod your head yes, but you wanna say no": [
+            "What do you mean",
+            "Sorry",
+            "Where are you now ?",
+            "Love Yourself"
         ]
     },
     {
-        "What is the name of Michael Jackson's first wife?": [
-            "Lisa Marie Presley",
-            "Debbie Rowe",
-            "Brooke Shields",
-            "Katherine Jackson"
+        "What George Michael ballad contains the lines, And if there is all that there is, is this fear of being used. I should go back being lonely and confused": [
+            "A Different Corner",
+            "Kissing A Fool",
+            "One More Try",
+            "Father Figure"
         ]
     },
     {
-        "What is the name of Michael Jackson's father?": [
-            "Joseph Jackson",
-            "Freddie Jackson",
-            "Larry Jackson",
-            "James Jackson"
+        "Which Adele song contains the lyric, I'm in California dreaming about who we used to be, When we were younger and free?": [
+            "Hello",
+            "When We Were Young",
+            "Rollin' in the Deep",
+            "Someone Like You"
         ]
     },
     {
-        "What is the name of Michael Jackson's mother?": [
-            "Katherin Jackson",
-            "Mary Jackson",
-            "Jackie Jackson",
-            "Victoria Jackson"
+        "Which Justin Timberlake song contains the lines, That vacancy that sat in my heart, is a space that now you hold?": [
+            "Mirrors",
+            "Suit and Tie",
+            "Not A Bad Thing",
+            "Cry Me a River"
         ]
     },
     {
-        "Which signature dance move did Michael Jackson popularized?": [
-            "Moonwalk",
-            "Street Dance",
-            "Moon Dance",
-            "Defy The Gravity Dance"
+        "Which Katy Perry tune contains the lyric, I finally found you, my missing puzzle piece. I'm complete": [
+            "Teenage Dream",
+            "I Kissed a Girl",
+            "Fireworks",
+            "The One That Got Away"
         ]
     },
     {
-        "Which tv show did Michael Jackson first introduce the moonwalk?": [
-            "Motown Twenty Five: Yesterday, Today, Forever",
-            "Soul Train",
-            "The Dance Show",
-            "Solid Gold"
+        "Which Lady Gaga tune contains the lines, I want your ugly, I want your disease, I want your everything. As long as its free": [
+            "Bad Romance",
+            "Poker Face",
+            "Telephone",
+            "Born This Way"
         ]
     },
     {
-        "Which movie did Michael Jackson star in opposite Diana Ross?": [
-            "The Whiz",
-            "Mahogany",
-            "Lady Sings The Blues",
-            "Moonwalker"
+        "What Kelly Clarkson song contains the lyric, How come I've never heard you say, I just want to be with you. Guess you never felt that way": [
+            "Since You've Been Gone",
+            "My Life Would Suck without you",
+            "Because of you",
+            "The Trouble With Love Is"
         ]
     },
     {
-        "Which sister of Michael Jackson posed nude for Playboy magazine?": [
-            "Latoya Jackson",
-            "Janet Jackson",
-            "Debbie Jackson",
-            "Rebbie Jackson"
+        "What Boyz Two Men song contains the lines, Throw your clothes on the floor. I'm gonna take my clothes off too?": [
+            "I'll Make Love To You",
+            "End Of The Road",
+            "On Bended Knee",
+            "It's so hard to say goodbye to yesterday"
         ]
     },
     {
-        "What album gave Michael Jackson seven Grammy awards?": [
-            "Thriller",
-            "Bad",
-            "Off The Wall",
-            "Invincible"
+        "Which Lady Antebellum song contains the lyric, Picture perfect memories scattered all around the floor. Reaching for the phone cause I can't fight it anymore?": [
+            "Need You Now",
+            "Just A Kiss",
+            "I Run To you",
+            "Falling For You"
         ]
     },
     {
-        "What is the first name of Michael Jackson's daughter?": [
-            "Paris",
-            "Geneva",
-            "Rose",
-            "Janet"
+        "Which Madonna tune contains the lines, I made it through the wilderness, somehow I made it through. Didn't know how lost I was, until I found you.": [
+            "Like A Virgin",
+            "Crazy For Your",
+            "Borderline",
+            "Open Your Heart"
         ]
     },
     {
-        "What song did Michael Jackson perform in the children story book E.T. Extra Terrestrial?": [
-            "Someone In The Dark",
-            "Somebody's Watching Me",
-            "Phone Home",
-            "Got To Be There"
+        "Which Backstreet Boys ballad contains the lines, You are my fire, the one desire?": [
+            "I Want It That Way",
+            "I'll Never break your heart",
+            "As Long As You love me",
+            "Quit Playing Games"
+        ]
+    },
+    {
+        "Which Taylor Swift tune contains the lines, You got that James Dean daydream look in your eye, And I got that red lip classic thing that you like?": [
+            "Style",
+            "Wildest Dreams",
+            "Blank Space",
+            "You Belong To Me"
+        ]
+    },
+    {
+        "What Alanis Morrisette song contains the lines, And every time I scratch my nails down someone else's back, I hope you feel it. Well can you feel it?": [
+            "You Oughta Know",
+            "Hands Clean",
+            "Ironic",
+            "Uninvited"
+        ]
+    },
+    {
+        "What Ellie Goulding song contains the lines, Every inch of your skin is a holy grail I've got to find, only you can set my heart on fire, on fire?": [
+            "Love Me Like You Do",
+            "Lights",
+            "Burn",
+            "Outside"
+        ]
+    },
+    {
+        "What Sheena Easton song contains the lyric, Time heals all wounds they say, and I should know. Cause it seems like forever, I'm letting you go?": [
+            "Almost Over You",
+            "For Your Eyes Only",
+            "Do It For Love",
+            "Wind Beneath My Wings"
         ]
     },
 
     {
-        "In what year was the album Thriller released?": [
-            "Nineteen Eighty Two",
-            "Nineteen Eighty Five",
-            "Nineteen Eighty Four",
-            "Nineteen Eighty Three"
+        "What Paula Abdul song contains the lines, You're the whisper of my summer breeze. You're the kiss that put my soul at ease?": [
+            "Rush, Rush",
+            "Blowing Kisses In the Wind",
+            "Next To You",
+            "The Way That You Love Me"
+        ]
+    },
+    
+    {
+        "What Madonna song contains the lines, I don't want to cause you any pain, but I love you just the same. And you'll always be my baby?": [
+            "Bad Girl",
+            "Byb Bye Baby",
+            "Rain",
+            "Erotica"
+        ]
+    },
+    
+    {
+        "What Tears for Fears song contains the lyric, I find it kind of funny, I find it kind of sad. The dreams in which I'm dying are the best I've ever had?": [
+            "Mad World",
+            "Head over Heels",
+            "Mother's Talk",
+            "Pale Shelter"
+        ]
+    },
+    
+    {
+        "What Janet Jackson tune contains the lyric, All my life I've waited, to see your smile again. In my mind I hated, not able to let go?": [
+            "Come Back To Me",
+            "Let's Wait Awhile",
+            "Together Again",
+            "That's The Way Love Goes"
+        ]
+    },
+    
+    {
+        "What Madonna tune contains the line, 'Cause the boy with the cold hard cash is always Mr. Right?": [
+            "Material Girl",
+            "Dress You Up",
+            "Into The Groove",
+            "Lucky Star"
+        ]
+    },
+    {
+        "What Madonna song contains the lyric, Something in the way you love me won't let me be. I don't want to be your prisoner so baby won't you set me free": [
+            "Borderline",
+            "Everybody",
+            "True Blue",
+            "Crazy For You"
         ]
     }
-    
 ];
 
 // Route the incoming request based on type (LaunchRequest, IntentRequest,
@@ -234,7 +277,7 @@ exports.handler = function (event, context) {
          * prevent someone else from configuring a skill that sends requests to this function.
          */
 		 
-     if (event.session.application.applicationId !== "amzn1.echo-sdk-ams.app.172102eb-8a64-4961-b736-31d9cb691bce") {
+     if (event.session.application.applicationId !== "amzn1.echo-sdk-ams.app.55436111-f886-4f48-aa7a-4fb8833edc57") {
          context.fail("Invalid Application ID");
       }
 
@@ -331,8 +374,8 @@ var ANSWER_COUNT = 4,
 
 function getWelcomeResponse(callback) {
     var sessionAttributes = {},
-        cardTitle = "Michael Jackson Trivia",
-        speechOutput = "Michael Jackson Trivia. I will ask you " + GAME_LENGTH.toString() 
+        cardTitle = "Name That Tune Trivia",
+        speechOutput = "Name That Tune Trivia. I will ask you " + GAME_LENGTH.toString() 
             + " questions, try to get as many right as you can. Just say the number of the answer. Let's begin.",
         shouldEndSession = false,
 
@@ -394,7 +437,7 @@ function populateRoundAnswers(gameQuestions, index, correctAnswer) {
 }
 
 function handleAnswerRequest(intent, session, callback) {
-    var cardTitle = "Michael Jackson Trivia",
+    var cardTitle = "Name That Tune Trivia",
         speechOutput = "";
 
     var answerSlot = intent.slots.Answer;
